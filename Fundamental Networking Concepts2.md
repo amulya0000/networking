@@ -207,3 +207,53 @@
 - Large geographic coverage
 - Multiple connection types
 - Lower speeds than LAN
+
+
+Network Architectures
+Client-Server Architecture
+
+Characteristics
+
+Centralized resources
+Server manages resources
+Clients request services
+
+
+Components
+
+Server: Powerful computer providing services
+Clients: End-user devices
+Network connection
+
+
+Advantages
+
+Centralized control
+Easy maintenance
+Better security
+
+
+
+Peer-to-Peer Architecture
+
+Characteristics
+
+No central server
+Each device can be client and server
+Direct communication
+
+
+Types
+
+Pure P2P: No central server
+Hybrid P2P: Some central services
+
+
+Advantages
+
+Cost-effective
+No single point of failure
+Scalable
+
+
+
